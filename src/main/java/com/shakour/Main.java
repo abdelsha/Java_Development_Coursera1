@@ -13,6 +13,7 @@ public class Main {
 //        dnaseq.testTwoOccurrences();
 //        dnaseq.testLastpart();
 //        dnaseq.testfindUrls();
+        //This it to update
 
         findGene newDna = new findGene();
         newDna.testFindGene();
